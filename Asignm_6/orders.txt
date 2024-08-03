@@ -1,0 +1,7 @@
+Receipt:
+Pizza x 3 = 450.0
+Total: 450.0
+Receipt:
+Pizza x 3 = 450.0
+Biryani x 1 = 350.0
+Total: 800.0

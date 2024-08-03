@@ -1,0 +1,5 @@
+Charlie: 3 - The product was okay, but the shipping took a while.
+Diana: 5 - Excellent product and very fast delivery!
+Evan: 2 - Disappointed with the quality of the item.
+Fiona: 4 - Overall satisfied, but the website could be more user-friendly.
+Greg: 1 - Awful experience. The product was damaged and customer service was unhelpful.
